@@ -1,3 +1,5 @@
+//Assignment # 2
+
 //storing a person name in a variable
 
 let personName:string = "Abdul-Rehman Siddiqui"
@@ -12,4 +14,4 @@ console.log("Uppercase:", personName.toUpperCase());
 
 //printing a person name in titlecase
 
-console.log("Titlecase:"personName.slice(0,1).toUpperCase()+personName.slice(1).toLowerCase())
+console.log("Titlecase:",personName.slice(0,1).toUpperCase()+personName.slice(1).toLowerCase())

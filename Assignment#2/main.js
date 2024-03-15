@@ -1,4 +1,5 @@
 "use strict";
+//Assignment # 2
 //storing a person name in a variable
 let personName = "Abdul-Rehman Siddiqui";
 //printing a person name in lowercase
